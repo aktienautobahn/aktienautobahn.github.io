@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="google-site-verification" content="NMburJ0yGQbBOvQcOdXozWOqJXgczd54tpUAV_E6mwA" />
+</head>
+<body>
+<div align="center" id="table-of-contents">
+<h2>Table of Contents</h2>
+<a href="#who-am-i">👨🏻‍💻 Who am I?</a><br>
+<a href="#interests">🚀 Interests</a><br>
+<a href="#tech-stack">💻 Tech Stack</a><br>
+<a href="#github-stats">📊 GitHub Stats</a><br>
+<a href="#top-contributed-repo">🔝 Top Contributed Repo</a>
+ 
+</div>
+
+<p>&nbsp;</p>
+
+<h2 align="center" id="who-am-i">👨🏻‍💻 Who am I?</h2>
+<h3 align="center">Hey! 👋 I'm Emil, a passionate tech evangelist based in Berlin, Germany.</h3> <h4 align="center">Here's a bit about me:</h4>
+<p align="center"> 
+<ul>
+<li>🙏🏻 I'm looking for help with SaaS Career Portal and small open source pet projects</li>
+<li>📖 I'm currently deepening my knowledge of <img alt="k8s" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white"> and CI/CD</li>
+<li><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"> & <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c&logoColor=white"> are my favorite programming languages. I also love curly braces :)</li>
+<li><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"> is my mostly used programming (actually scripting) language.
+</li>
+<li>🙋🏻 Ask me about Cloud. I am a certified Solutions Architect</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2 align="center" id="interests">🚀 Interests</h2>
+<a href="https://www.credly.com/badges/65b7b8ca-aed7-4964-bb04-1eca8963f9d1/public_url">
+<img align="right" width="75 " alt="AWS Certified Solutions Architect Associate" src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
+</a>
+<ul>
+<li><strong>Architecting & System Design</strong>: Architecting & Design are in my blood. I love to engineer highly-available, scalable, robust, maintainable and secure systems.</li>
+<li><strong>DevOps</strong>: Having a university degree in industrial automation my next step in designing of complex systems and rump-up production involves Cloud, Kubernetes, Docker and CI/CD-pipelines. I am also a certified AWS Solutions Architect Associate.</li>
+<li><strong>Backend-Development</strong>: I enjoy building production-grade robust, scalable and secure server-side applications. APIs and server logic are my jam.</li>
+</ul>
+<p align="center">
+<br>
+<p>&nbsp;</p>
+
+<h2 align="center" id="tech-stack">💻 Tech Stack</h2>
+<p align="center">
+<h3 align="center"> 
+<img alt="Languages" src="./code-svgrepo-com.svg" width="24" height="24" align="center">
+Languages:</h3>
+<p align="center">
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white">
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c&logoColor=white">
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
+</p>
+
+<h3 align="center">🚀 Frameworks & Libraries:</h3>
+<p align="center">
+
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi">
+<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white"> 
+<img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"> 
+<img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
+<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"> 
+<img alt="SwaggerUI" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+<img alt="Grafana" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white">
+<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white">
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white">
+<img alt="SciKit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white">
+<img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white">
+<img alt="PowerBi" src="https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black">
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black">
+<img alt="Twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white">
+</p>
+
+<h3 align="center">🛠️ Developer/DevOps Tools:</h3>
+<p align="center">
+<img alt="cmake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white">
+<img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=orange">
+<img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white">
+<img alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
+<img alt="k8s" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white">
+<img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white">
+<img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white">
+<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white"> 
+<img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white"> 
+<img alt="neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white"> 
+<img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"> 
+</p>
+
+<h3 align="center">☁️ Cloud & Operating Systems</h3>
+<p align="center">
+<img alt="NGINX" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white">
+<img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white">
+<img alt="GCC" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+<img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white">
+
+
+<p align="center">
+
+<h3 align="center">🛢️ Databases:</h3>
+<p align="center">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white">
+<img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white">
+<img alt="DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white">
+</p>
+
+<h3 align="center">🌐 Web Servers:</h3>
+<p align="center">
+<img alt="NGINX" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white">
+<img alt="Gunicorn" src="https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white">
+</p>
+
+<h3 align="center">📚 Management & Documentation:</h3>
+<p align="center">
+<img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white">
+<img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white">
+<img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white">
+<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white">
+<img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"> 
+<img alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white"> 
+
+<h3 align="center">🖇️ Miscellaneous:</h3>
+<p align="center">
+<img alt="Markdown" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">   
+<img alt="Markdown" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi">
+<img alt="Markdown" src="https://img.shields.io/badge/homebridge-%23491F59.svg?style=flat&logo=homebridge&logoColor=white">
+
+<p>&nbsp;</p>
+
+<h2 align="center" id="github-stats">📊 GitHub Stats</h2>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aktienautobahn&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="aktienautobahn" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aktienautobahn&theme=dark&hide_border=false" alt="aktienautobahn" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktienautobahn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="aktienautobahn" /></p>
+
+<p>&nbsp;</p>
+
+<h2 align="center" id="top-contributed-repo">🔝 Top Contributed Repo</h2>
+<p align="center">&nbsp;<img align="center" src="https://github-contributor-stats.vercel.app/api?username=aktienautobahn&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="aktienautobahn" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://visitcount.itsvg.in/api?id=aktienautobahn&label=Profile%20Views&color=12&icon=5&pretty=true"/></p>
+
+
+
+</body>
+</html>
